@@ -3,13 +3,15 @@ background-color: crimson;
 }
 header {
 background-color: crimson;
+color: white;
 }
 h1 {
-
+color: white;
+background-color: crimson;
 }
 h2 {
 
 }
 p {
-
+border: white;
 }
