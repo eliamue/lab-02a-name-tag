@@ -31,7 +31,7 @@ text-align: center;
 font-size: 80px;
 height: 70px;
 margin: 10px;
-font-family:sans-serif
+font-family: sans-serif
 }
 h2 {
 margin: 5px;
@@ -61,4 +61,16 @@ footer {
     border-radius: 15px;
     border-top-left-radius: 0px;
     border-top-right-radius: 0px;
+}
+.pink-button {
+    background-color: pink;
+    color: pink;
+}
+.green-button {
+    background-color: green;
+    color: green;
+}
+.blue-button {
+    background-color: blue;
+    color: blue;
 }
